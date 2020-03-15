@@ -16,7 +16,6 @@ import android.widget.TextView;
 import android.widget.Toast;
 import darren.gcptts.R;
 import darren.gcptts.presenter.MainActivityPresenter;
-
 /**
  * Author: Changemyminds.
  * Date: 2018/6/25.
